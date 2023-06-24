@@ -1,0 +1,340 @@
+
+
+/* Class = "UILabel"; text = "Master Vision45"; ObjectID = "1Fm-Im-YkP"; */
+"1Fm-Im-YkP.text" = "Vision45";
+
+/* Class = "UIButton"; normalTitle = "فارسی"; ObjectID = "OZ0-HD-nNm"; */
+"OZ0-HD-nNm.normalTitle" = "فارسی";
+
+/* Class = "UIButton"; normalTitle = "English"; ObjectID = "VC3-E3-BPK"; */
+"VC3-E3-BPK.normalTitle" = "English";
+
+/* Class = "UIButton"; normalTitle = "Verify Code"; ObjectID = "W7U-ZH-8L4"; */
+"W7U-ZH-8L4.normalTitle" = "Ok";
+"Fie-Xm-nOA.normalTitle" = "Resend Code";
+/* Class = "UILabel"; text = "Please Enter Verify Code When Receive From Sms Message"; ObjectID = "Xk5-Vc-zob"; */
+"Xk5-Vc-zob.text" = "The one-time password will be sent to you via SMS, please enter it in the box below after receiving it.";
+"GTK-rE-ghQ.text" = "remaining time";
+"x4S-Jt-Rsc.placeholder" = "One-time code";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "gIA-qs-uFX"; */
+"gIA-qs-uFX.normalTitle" = "Send";
+
+/* Class = "UILabel"; text = "Please Enter Number To Enable App"; ObjectID = "ly0-wR-MW9"; */
+"ly0-wR-MW9.text" = "Please Enter Number To Enable App";
+"Ng6-eX-SIe.normalTitle" = "State";
+"zgv-Cf-5JX.text" = "Lock";
+"Asa-6p-3K4.text" = "Unlock";
+"47x-ZA-3AI.text" = "On/Off 1";
+"RJ8-O2-Z8o.text" = "On/Off 2";
+"0Yt-pR-fD4.text" = "Output moment 1";
+"mCa-kP-EPp.text" = "Output moment 2";
+"iSn-Vr-Ljf.text" = "Language";
+"Oar-XV-Vd4.text" = "Theme";
+"c6b-Ez-qF9.text" = "Name of Keys";
+"MAC-Y3-UOW.text" = "Name is Zoon";
+
+
+"Pni-8V-yHY.text" = "Add new users";
+"1GO-ol-V2u.text" = "remove users";
+"t1p-Z6-nGX.text" = "Reciepent alert record";
+"1rb-rm-fcf.text" = "remove receiver alert";
+"vov-Ee-Ovi.text" = "Record / test voice message";
+"z42-ks-SR5.text" = "Enable and disable registered users call";
+"4MS-7k-blk.text" = "Activate and deactivate Ding Dong";
+"jau-k4-2Gb.text" = "Enable and disable reporting to me";
+"Lhn-kc-Oxp.text" = "Activate and deactivate my protector";
+"WWc-go-NW0.text" = "Jammer detection mode";
+"Kg3-vQ-26g.text" = "Alert";
+"Ghj-0K-SM9.text" = "24h";
+"oEV-UD-7nw.text" = "Activate and deactivate farsi language";
+"adg-0m-usU.text" = "Warranty activation";
+"8Co-bd-orW.text" = "On/Off bluetooth vision45";
+"OI7-vJ-ECb.text" = "Change alarm state";
+"ON5-da-OHp.text" = "Information zoon";
+"Jn7-aT-Ife.text" = "Zoon settings";
+"3YD-iN-S18.text" = "Set call time";
+"alv-H4-SVT.text" = "Return to factory settings";
+
+/* add new user phone number */
+"mEu-6A-ZDo.text" = "User 2";
+"fA2-bC-cXM.text" = "User 3";
+"Kd6-yl-fnA.text" = "User 4";
+"Qc2-bq-3W7.text" = "User 5";
+"MDD-XR-Gnd.normalTitle" = "Send";
+"teq-wq-tEc.normalTitle" = "Send";
+"D05-1L-qKF.normalTitle" = "Send";
+"lsh-MP-8gS.normalTitle" = "Send";
+
+/* remove user phone number */
+"Hc0-4p-ZE9.text" = "User 2";
+"ChR-Q9-3BL.text" = "User 3";
+"OOc-s3-ruO.text" = "User 4";
+"PDo-1a-sLx.text" = "User 5";
+"M5e-6y-ihF.text" = "Disable";
+"ddE-Sv-kmW.text" = "Disable";
+"snZ-S5-C4Y.text" = "Disable";
+"CGI-tm-fWD.text" = "Disable";
+"75g-1v-BgL.normalTitle" = "Send";
+"nBY-2u-cQ4.normalTitle" = "Send";
+"yri-6x-xnO.normalTitle" = "Send";
+"Fz7-n2-YdZ.normalTitle" = "Send";
+
+/* add new  recipient alert */
+"1Rg-b0-1fr.text" = "Receiver Alert 1";
+"ceo-fZ-fus.text" = "Receiver Alert 2";
+"BdR-vA-VWS.text" = "Receiver Alert 3";
+"M07-Yc-Nip.text" = "Receiver Alert 4";
+"5Yv-vn-QdL.text" = "Receiver Alert 5";
+"1Sd-vG-kW9.normalTitle" = "Send";
+"oyF-A0-8UT.normalTitle" = "Send";
+"Amm-rX-PZb.normalTitle" = "Send";
+"IH7-Pb-ijL.normalTitle" = "Send";
+"vv7-uN-Nkr.normalTitle" = "Send";
+
+
+/* remove Recipient alert number */
+"6jB-xT-rW0.text" = "Receiver alert 1";
+"f6T-iK-grY.text" = "Receiver alert 2";
+"mTv-ku-Hkv.text" = "Receiver alert 3";
+"wHA-dE-ub4.text" = "Receiver alert 4";
+"RHO-YF-a3D.text" = "Receiver alert 5";
+"jsc-X0-dIJ.text" = "Disable";
+"fQQ-5i-bFg.text" = "Disable";
+"ttN-du-U40.text" = "Disable";
+"fR2-pk-lHJ.text" = "Disable";
+"q0m-xP-tq1.text" = "Disable";
+"I9w-UE-GpI.normalTitle" = "Send";
+"VVX-7r-TxE.normalTitle" = "Send";
+"PSi-i7-Cqb.normalTitle" = "Send";
+"Ehi-rQ-0wr.normalTitle" = "Send";
+"dop-ce-K6b.normalTitle" = "Send";
+
+
+/* for record and test voice page */
+"0SU-5P-EPU.text" = "After clicking this button, wait for the device to call. After hearing two beeps, leave your message and wait until you hear a beep and the call will automatically be muted..";
+"Nas-Tj-NAd.text" = "Voice recording test";
+"lpD-8e-KRj.text" = "After clicking this button, wait for you to call and play back the recorded sound.";
+
+
+/* For enable and disable users call*/
+"F7l-fb-fjU.text" = "User 2";
+"tpM-YY-gYH.text" = "User 3";
+"Q6d-Nf-blU.text" = "User 4";
+"Qpv-9U-bf1.text" = "User 5";
+"X7f-pH-u6w.text" = "Disable";
+"mEp-ot-zjb.text" = "Disable";
+"Jbe-NQ-znQ.text" = "Disable";
+"0dI-NQ-Vly.text" = "Disable";
+"tOL-2H-aEu.text" = "Enable";
+"MtZ-a2-U5y.text" = "Enable";
+"Bxf-QR-kBW.text" = "Enable";
+"332-Lg-tIS.text" = "Enable";
+"h9F-bQ-eFi.normalTitle" = "Send";
+"ifN-Kd-sBW.normalTitle" = "Send";
+"0D7-L0-Fur.normalTitle" = "Send";
+"sQu-wE-Yz7.normalTitle" = "Send";
+
+
+/* For Activate and deactivate ding dong*/
+"yyf-lz-ysQ.text" = "Disable";
+"1Ac-Ju-I2Y.text" = "Enable";
+"zSM-cp-BhE.normalTitle" = "Send";
+"VfR-n3-fkH.text" = "This item is only active on zone 1.";
+
+
+/* For Activate and deactivate Reporting to me*/
+"QZX-BO-FA5.text" = "Disable";
+"pu6-Ki-hkn.text" = "Enable";
+"SHY-oi-t5W.normalTitle" = "Send";
+"Yh8-dI-uBh.text" = "Activating this item will lock and unlock the system by all users , you will be notified via sms.";
+
+
+/* For Activate and deactivate Secure me*/
+"nSc-Bp-QD8.text" = "Disable";
+"GCz-cP-Iqm.text" = "Enable";
+"oJS-7X-LUR.normalTitle" = "Send";
+"ZSl-CP-bwy.text" = "This item is only activated on zone 2, if the device is activated, the range of this zone will not cause the alarm sound if it is stimulated.";
+
+
+/* For Jammer detection Mode*/
+"P1s-bc-h7J.text" = "Disable";
+"g5i-w2-j9U.text" = "Enable";
+"2kZ-1G-9rY.normalTitle" = "Send";
+"gWt-mT-KQT.text" = "By activating this item if the device antenna is set to zero or the jammer is connected, the instantaneous output will be high for 3 seconds.        By activating this item, 1 instant output is disabled";
+
+
+/* For Alert Page*/
+"kgQ-Ud-rHi.text" = "Disable";
+"xwH-8M-h67.text" = "Enable";
+"0PJ-qR-i4e.normalTitle" = "Send";
+"ht2-Qc-XH1.text" = "By activating this item, the instantaneous output 2 is deactivated and becomes HIGH for 15 seconds when the siren sounds.";
+
+
+/* For 24 hour Page*/
+"jx6-rG-HbE.text" = "Disable";
+"Led-MN-02Z.text" = "Enable";
+"4dH-1J-1NV.normalTitle" = "Send";
+"xta-8S-AQh.text" = "This item can only be activated on zone 3.
+In the case of using 24-hour mode of zone 3, if the zone is triggered while the equipment is deactivated (lock/open), the alarm will go off.
+
+    How to deactivate this item:
+If it is not triggered, the main user can deactivate the  24-hour mode using this icon.
+
+If the alarm has gone off, then all the users can deactivate the alam using the lock/open icon.
+
+It should be noted that if the lock is opened during the alarm, it should be activated again by the main user.";
+
+
+/* For Enable an disable Farsi Language Mode*/
+"YxQ-xF-8nx.text" = "Disable";
+"KCQ-cj-tBa.text" = "Enable";
+"XQJ-mm-axA.normalTitle" = "Send";
+"C2i-TL-Lx5.text" = "By activating this item, the instantaneous output 2 is deactivated and becomes HIGH for 3 seconds when the siren sounds.";
+
+/* For Enable an disable Bluetooth vision45*/
+"2Q7-cq-omK.text" = "Disable";
+"9VJ-yF-twm.text" = "Enable";
+"hdl-Vr-55x.normalTitle" = "Send";
+
+
+
+/* For Warranty code Enable Page*/
+"2KH-4N-UtP.normalTitle" = "Enable warranty";
+"nV1-O6-z9e.normalTitle" = "Send warranty code";
+"xhu-eg-WgE.placeholder" = "warranty code";
+"8O3-vT-E4a.text" = "Enter the warranty code received via SMS in this field and click the send button.";
+
+
+/* For Factory Reset Page*/
+"NDy-Bb-gNq.text" = "I Agree";
+"Yvt-5F-Tau.normalTitle" = "Send";
+"WhS-Ir-EyU.text" = "If you select this option all accesses and settings will be reset to default and user 1 will need to re-register..";
+
+
+/* For Add New Input Password*/
+"SRW-O4-awP.text" = "Add input password";
+"25a-7R-jFq.placeholder" = "Enter New password";
+"gsG-As-OCm.placeholder" = "Repeat password";
+"euX-Re-Qer.normalTitle" = "Ok";
+"smk-z6-CzJ.normalTitle" = "Cancel";
+
+/* For Change New Input Password*/
+"ylq-kM-Xop.text" = "Change input password";
+"H4F-SQ-8Sg.placeholder" = "Enter Old password";
+"OaA-Zl-juv.placeholder" = "Enter new password";
+"fuh-yB-jJ6.placeholder" = "Repeat password";
+"zLh-P5-Fpw.normalTitle" = "Ok";
+"Xcd-uw-2Uc.normalTitle" = "Cancel";
+
+/* For Remove Input Password*/
+"c8y-Lq-yuh.text" = "Remove input password";
+"C1L-Wo-dtM.placeholder" = "Enter password";
+"B9J-X6-H2V.normalTitle" = "Ok";
+"UZX-IV-QHg.normalTitle" = "Cancel";
+
+/* Input Password Base*/
+"xY1-2v-D7V.text" = "Enter password";
+"EGt-iS-ip5.placeholder" = "Enter password";
+
+"mlp-AS-rUz.text" = "Input password";
+"pW1-A6-Wt2.text" = "Support";
+
+
+/* Outputs name */
+"r8S-gu-bGm.text" = "Name for On/ Off 1";
+"gos-JC-4N9.text" = "Name for On/ Off 2";
+"5jF-rv-MWV.text" = "Name for output moment 1";
+"xLj-2d-dU3.text" = "Name for output moment 2";
+"4Ks-eb-EAf.placeholder" = "On/ Off 1";
+"TNe-vn-tlx.placeholder" = "On/ Off 2";
+"58G-3b-AUr.placeholder" = "Output moment 1";
+"2r1-2R-K7r.placeholder" = "Output moment 2";
+
+/* zoon name*/
+"BN4-7l-tPh.text" = "You can use your own names for the zones";
+"Tkv-GH-ubP.text"  = "You can rename the outputs on the home screen.";
+"EKf-2E-ZGT.text" = "Extra 16";
+"HLE-Es-bUR.text" = "Zoon 1";
+"lgD-pI-sd4.text" = "Zoon 2";
+"9El-a3-yzP.text" = "Zoon 3";
+"AFH-gg-7Pw.text" = "Zoon 4";
+"fal-q9-mUU.text" = "Extra Zoon 5";
+"q8o-bU-2n3.text" = "Extra Zoon 6";
+"C6h-AC-WaX.text" = "Extra Zoon 7";
+"ppy-rY-oI6.text" = "Extra Zoon 8";
+"2jj-FZ-tl6.text" = "Extra Zoon 9";
+"Thn-BM-Yd8.text" = "Extra Zoon 10";
+"fkz-UH-NrK.text" = "Extra Zoon 11";
+"dSQ-pk-p7Q.text" = "Extra Zoon 12";
+"ear-Me-vUU.text" = "Extra Zoon 13";
+"hwg-t2-VAv.text" = "Extra Zoon 14";
+"pXc-s8-rjb.text" = "Extra Zoon 15";
+"EI9-Kb-tY8.text" = "Extra Zoon 16";
+"bP5-1b-b0v.text" = "Extra Zoon 17";
+"kDb-dh-lQi.text" = "Extra Zoon 18";
+"gXx-w4-hPv.text" = "Extra Zoon 19";
+"mYG-pR-duO.text" = "Extra Zoon 20";
+
+/* dialog info*/
+"FdV-i8-Lvn.text" = "Providing the best security for your properties";
+"yFs-mi-nDa.text" = "Site Address :";
+"Igx-83-0zG.text" = "Contact support :";
+
+
+/*for zoon settings*/
+
+"EHQ-HF-gVR.text" = "Note, the first time the relevant zone is deactivated, it will be activated by resending.";
+"EXc-9q-spp.text" = "Main Zoon";
+
+"JDS-09-HRX.normalTitle" = "Send";
+"Q8z-On-x5X.text" = "Extra 16";
+"xN3-sp-GEE.text" = "Zoon 1";
+"Nu4-Ih-i81.text" = "Zoon 2";
+"Vqk-hd-Sat.text" = "Zoon 3";
+"4O3-8u-bX3.text" = "Zoon 4";
+"8fE-xl-9La.text" = "Extra Zoon 5";
+"hBn-Hb-WmI.text" = "Extra Zoon 6";
+"0iG-di-snV.text" = "Extra Zoon 7";
+"gSD-T8-lU3.text" = "Extra Zoon 8";
+"yMn-0Q-QBg.text" = "Extra Zoon 9";
+"JgY-ZX-C4w.text" = "Extra Zoon 10";
+"qAn-JA-rjj.text" = "Extra Zoon 11";
+"Wz5-mt-lvN.text" = "Extra Zoon 12";
+"D6Q-Ll-IdJ.text" = "Extra Zoon 13";
+"7Tf-a1-aWK.text" = "Extra Zoon 14";
+"GdZ-XO-ZxY.text" = "Extra Zoon 15";
+"aAd-Va-f9i.text" = "Extra Zoon 16";
+"Ok7-rO-Jct.text" = "Extra Zoon 17";
+"sUj-nh-iKZ.text" = "Extra Zoon 18";
+"VlV-IS-8vu.text" = "Extra Zoon 19";
+"1VU-iM-QZZ.text" = "Extra Zoon 20";
+
+
+
+/* For set call time*/
+"YzQ-TI-Jzk.text" = "15 second";
+"RPq-bc-Drd.text" = "30 second";
+"b3M-1q-Jtk.text" = "60 second";
+"BMT-cz-7Vk.text" = "120 second";
+"7nI-jK-8yD.text" = "By selecting one of the following options, you can change the time interval of the alert call from SMS. Note that the initial setting of the device is 120 seconds and also it is not possible to deactivate when dialing and the siren is off at this time.";
+"98X-6h-ZE2.normalTitle" = "send";
+
+
+
+/* view go to guarante*/
+"eLR-Ki-lQN.normalTitle" = "Go Guarantee";
+"M5g-aE-wgK.text" = "Guarantee";
+"Gbw-7W-ExX.text" = "You have not yet activated your warranty, please take the necessary steps to activate the warranty within the device settings and the warranty option.";
+
+
+/* View Change Alarm State*/
+"9H2-ZS-JgW.normalTitle" = "Send";
+"j3k-B3-C4v.text" = "Enable/Disable";
+"MDH-gV-fhj.text" = "By selecting this option, the device will start sounding the alarm at the time of the alarm immediately after sending a message to user 1, note that only when the act led is blinking, it is possible to turn off the alarm and deactivate the device. By checking and resending the device returns to the first state.";
+
+/* View Information zoon*/
+"hhk-xu-KwX.normalTitle" = "Send";
+"VkJ-0z-ovW.text" = "Enable/Disable";
+"uBn-Kv-5pP.text" = "By selecting this option, zoon 4 is out of its normal operation mode and in case of stimulation by the sensor, 1 text message is sent to the user (messenger zoon) and this operation is repeated every 10 minutes if this item is deactivated. By checking and resending the device returns to the first state.";
+

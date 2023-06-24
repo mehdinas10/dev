@@ -1,0 +1,84 @@
+
+"OK" = "Ok";
+"Cancel" = "Cancel";
+"back" = "back";
+"send_message_cancelled" = "sms is cancelled";
+"send_message_failed" = "sms sending is failed";
+"success_send_sms" = "send sms is successfuly";
+"success_remove_number" = "Remove number is successfuly";
+"success_add_number" = "Add number is successfuly";
+"toast_error_call" = "Error making call";
+"error_msg_title" = "Error!";
+"number_invalid" = "Number Phone Invalid";
+"verify_code_type_invalid" = "Verify Code Invalid";
+"verify_code_invalid" = "Code is invalid , please try again.";
+
+"title_choose_lang" = "Choose Language";
+"title_choose_theme" = "Choose App Theme";
+"blue_theme" = "Blue Theme";
+"pink_theme" = "Pink Theme";
+"green_theme" = "Green Theme";
+
+
+"app_setting_title" = "App Settings";
+"device_setting_title" = "Device Settings";
+
+"add_new_user_title" = "Add New User";
+"remove_user_title" = "Remove User";
+
+"toast_number_invalid" = "Your number phone is Invalid , please check format and try again.";
+"check_box_not_checked" = "Please enter checked disable check box";
+"add_new_recipient_title" = "Add new Recipient alert";
+
+"remove_recipient_title" = "Remove recipient alert";
+
+"test_record_voice" = "Record / test voice message";
+"title__en_ds_reg_user_call" = "Config register users call";
+"title__en_ds_ding_dong" = "ding dong";
+"title__en_ds_report_to_me" = "Reporting to me";
+"title__en_ds_secure_me" = "My Perotection";
+"title_jammer" = "Jammer detection mode";
+"title_alert" = "alert";
+"title_24_h" = "24h";
+"title_farsi_lang" = "Persian Language";
+"title_warranty" = "Warranty activation";
+"title_factory_reset" = "Return to factory settings";
+
+
+"warranty_code_invalid" = "The warranty code entered is incorrect";
+"toast_error_connect" = "Error connecting to server";
+"toast_error_receive_data" = "Error receive data from server";
+
+"title_password" = "Input Password";
+"new_pass" = "Add New Password";
+"change_pass" = "Change Password";
+"remove_pass" = "Remove Password";
+
+"invalid_pass" = "Password is incorrect";
+
+"toast_equal_pass" = "Repeating password is incorrect";
+"toast_length_pass" = "Password length must be more than 4 digits";
+"toast_fill_input" = "Fill in the required fields";
+"toast_success_new_pass" = "Password set successfully";
+"toast_success_change_pass" = "Password changed successfully";
+"toast_success_remove_pass" = "Password Removed successfully";
+"toast_correct_old_pass" = "Your password is incorrect";
+"error_network_conn" = "Error network connection , please check and try again .";
+
+
+
+"on_off_1" = "On/ Off 1";
+"on_off_2" = "On/ Off 2";
+"out_moment_1" = "Output moment 1";
+"out_moment_2" = "Output moment 2";
+
+
+"title_on_off_blue" = "On/Off Bluetooth vision45";
+
+
+"title_on_zoon_settings" = "Zoon Settings";
+"toast_select_zoon" = "Please select one of the zones first";
+"title_set_call_time" = "Set call time";
+
+"title_change_alarm_state" = "Change alarm mode";
+"title_information_zoon" = "Information zoon";

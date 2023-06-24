@@ -1,0 +1,84 @@
+
+"OK" = "قبول";
+"Cancel" = "لغو";
+"back" = "بازگشت";
+"send_message_cancelled" = "پیام کوتاه لغو شد";
+"send_message_failed" = "خطا در ارسال ‍‍‍";
+"success_send_sms" = "ییام کوتاه با موفقیت ارسال شد";
+"success_remove_number" = "شماره با موفقیت حذف شد";
+"success_add_number" = "شماره با موفقیت اضافه شد";
+"toast_error_call" = "خطا در برقراری تماس";
+"error_msg_title" = "خطا!";
+"number_invalid" = "شماره موبایل اشتباه است";
+"verify_code_type_invalid" = "فرمت کد وارد شده صحیح نمیباشد";
+"verify_code_invalid" = "کد وارد شده صحیح نمیباشد . لطفا بررسی کنید و مجددا تلاش کنید";
+
+"title_choose_lang" = "انتخاب زبان";
+
+"title_choose_theme" = "انتخاب تم برنامه";
+"blue_theme" = "تم آبی";
+"pink_theme" = "تم صورتی";
+"green_theme" = "تم سبز";
+
+
+
+
+"app_setting_title" = "تنظیمات برنامه";
+"device_setting_title" = "تنظیمات دستگاه";
+"add_new_user_title" = "ثبت کاربر جدید";
+"remove_user_title" = "حذف کاربران";
+
+"toast_number_invalid" = "شماره تلفن وارد شده نا معتبر است . لطفا بررسی و مجددا تلاش کنید .";
+"check_box_not_checked" = "لطفا گزینه غیرفعال را انتخاب کنید.";
+"add_new_recipient_title" = "ثبت هشدار گیرنده";
+
+"remove_recipient_title" = "حذف هشدار گیرنده";
+
+"test_record_voice" = "ضبط و تست صدای ضبط";
+"title__en_ds_reg_user_call" = "تماس کاربران";
+"title__en_ds_ding_dong" = "دینگ دانگ";
+"title__en_ds_report_to_me" = "گزارش به من";
+"title__en_ds_secure_me" = "حفاظت از من";
+"title_jammer" = "حالت تشخیص jammer";
+"title_alert" = "آژیر";
+"title_24_h" = "24h";
+"title_farsi_lang" = "زبان فارسی";
+"title_warranty" = "فعال کردن گارانتی";
+"title_factory_reset" = "بازگشت به تنظیمات کارخانه";
+
+"warranty_code_invalid" = "کد گارنتی وارد شده صحیح نمیباشد .";
+"toast_error_connect" = "خطا در اتصال به سرور";
+"toast_error_receive_data" = "خطا در دریافت اطلاعات لطفا مجددا تلاش فرمایید";
+
+"title_password" = "رمز عبور";
+"new_pass" = "رمز عبور جدید";
+"change_pass" = "تغییر رمز عبور";
+"remove_pass" = "حذف رمز عبور";
+
+"invalid_pass" = "پسوورد صحیح نمیباشد";
+
+"toast_equal_pass" = "تکرار پسوورد برابر نمیباشد";
+"toast_length_pass" = "طول پسوورد باید بیشتر از ۴ رقم باشد";
+"toast_fill_input" = "لطفا فیلد های مورد نظر را پر نمایید";
+"toast_success_new_pass" = "پسوورد با موفقیت تنظیم شد";
+"toast_success_change_pass" = "پسوورد با موفقیت تغییر کرد";
+"toast_success_remove_pass" = "پسوورد با موفقیت حذف شد";
+"toast_correct_old_pass" = "پسوورد شما صحیح نمیباشد";
+"error_network_conn" = "خطا در اتصال به اینترنت . لطفا اتصال اینترنت را بررسی کنید و مجددا تلاش فرمایید.";
+
+
+"on_off_1" = "قطع و وصل ۱";
+"on_off_2" = "قطع و وصل ۲";
+"out_moment_1" = "خروجی لحظه ای ۱";
+"out_moment_2" = "خروجی لحظه ای ۲";
+
+"title_on_off_blue" = "خاموش روشن کردن بلوتوث vision45";
+"title_on_zoon_settings" = "تنظیمات زون ها";
+"toast_select_zoon" = "لطفا ابتدا یکی از زون ها را انتخاب کنید";
+
+
+"title_set_call_time" = "تنظیم زمان تماس";
+
+
+"title_change_alarm_state" = "تغییر حالت آلارم";
+"title_information_zoon" = "زون اطلاع رسان";

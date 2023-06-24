@@ -1,0 +1,10 @@
+
+"OK" = "Ok";
+"Cancel" = "Cancel";
+"send_message_cancelled" = "sms is cancelled";
+"send_message_failed" = "sms sending is failed";
+"success_send_sms" = "send sms is successfuly";
+"error_msg_title" = "Error!";
+"number_invalid" = "Number Phone Invalid";
+"verify_code_type_invalid" = "Verify Code Invalid";
+"verify_code_invalid" = "Code is invalid , please try again.";

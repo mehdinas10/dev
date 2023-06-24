@@ -1,0 +1,342 @@
+
+
+/* Class = "UILabel"; text = "Master Vision45"; ObjectID = "1Fm-Im-YkP"; */
+"1Fm-Im-YkP.text" = "Vision45";
+
+/* Class = "UIButton"; normalTitle = "فارسی"; ObjectID = "OZ0-HD-nNm"; */
+"OZ0-HD-nNm.normalTitle" = "فارسی";
+
+/* Class = "UIButton"; normalTitle = "English"; ObjectID = "VC3-E3-BPK"; */
+"VC3-E3-BPK.normalTitle" = "English";
+
+/* Class = "UIButton"; normalTitle = "Verify Code"; ObjectID = "W7U-ZH-8L4"; */
+"W7U-ZH-8L4.normalTitle" = "تایید";
+"Fie-Xm-nOA.normalTitle" = "ارسال مجدد";
+/* Class = "UILabel"; text = "Please Enter Verify Code When Receive From Sms Message"; ObjectID = "Xk5-Vc-zob"; */
+"Xk5-Vc-zob.text" = "رمز یکبار مصرف از طریق پیامک برای شما ارسال خواهد شد ،لطفا پس از دریافت در کادر پایین وارد کنید.";
+"x4S-Jt-Rsc.placeholder" = "رمز یکبارمصرف";
+"GTK-rE-ghQ.text" = "زمان باقیمانده";
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "gIA-qs-uFX"; */
+"gIA-qs-uFX.normalTitle" = "ارسال";
+
+/* Class = "UILabel"; text = "Please Enter Number To Enable App"; ObjectID = "ly0-wR-MW9"; */
+"ly0-wR-MW9.text" = "لطفا شماره تلفن دستگاه را وارد کنید";
+"Ng6-eX-SIe.normalTitle" = "استعلام";
+"zgv-Cf-5JX.text" = "قفل کردن";
+"Asa-6p-3K4.text" = "باز کردن";
+"47x-ZA-3AI.text" = "قطع و وصل ۱";
+"RJ8-O2-Z8o.text" = "قطع و وصل ۲";
+"0Yt-pR-fD4.text" = "خروجی لحظه ای ۱";
+"mCa-kP-EPp.text" = "خروجی لحظه ای ۲";
+"iSn-Vr-Ljf.text" = "تغییر زبان";
+"Oar-XV-Vd4.text" = "تغییر تم";
+"c6b-Ez-qF9.text" = "نام گذاری کلیدها";
+"MAC-Y3-UOW.text" = "نام گذاری زون ها";
+
+
+"Pni-8V-yHY.text" = "ثبت کاربر جدید";
+"1GO-ol-V2u.text" = "حذف کاربران";
+"t1p-Z6-nGX.text" = "ثبت هشدار گیرنده";
+"1rb-rm-fcf.text" = "حذف هشدار گیرنده";
+"vov-Ee-Ovi.text" = "ضبط / تست پیام صوتی";
+"z42-ks-SR5.text" = "فعال و غیرفعال کردن تماس کاربران ثبت شده";
+"4MS-7k-blk.text" = "فعال و غیرفعال کردن دینگ دانگ";
+"jau-k4-2Gb.text" = "فعال و غیرفعال کردن گزارش به من";
+"Lhn-kc-Oxp.text" = "فعال و غیرفعال کردن حفاظت از من";
+"WWc-go-NW0.text" = "حالت تشخیص jammer";
+"Kg3-vQ-26g.text" = "آژیر";
+"Ghj-0K-SM9.text" = "24h";
+"oEV-UD-7nw.text" = "فعال و غیرفعال کردن زبان فارسی";
+"adg-0m-usU.text" = "فعال سازی گارانتی";
+"8Co-bd-orW.text" = "خاموش روشن کردن بلوتوث vision45";
+
+"OI7-vJ-ECb.text" = "تغییر حالت آلارم";
+"ON5-da-OHp.text" = "زون اطلاع رسان";
+"Jn7-aT-Ife.text" = "تنظیمات زون ها";
+"3YD-iN-S18.text" = "تنظیم زمان تماس";
+"alv-H4-SVT.text" = "بازگشت به تنظیمات کارخانه";
+/* add new user phone number */
+"mEu-6A-ZDo.text" = "کاربر 2";
+"fA2-bC-cXM.text" = "کاربر 3";
+"Kd6-yl-fnA.text" = "کاربر 4";
+"Qc2-bq-3W7.text" = "کاربر 5";
+"MDD-XR-Gnd.normalTitle" = "ارسال";
+"teq-wq-tEc.normalTitle" = "ارسال";
+"D05-1L-qKF.normalTitle" = "ارسال";
+"lsh-MP-8gS.normalTitle" = "ارسال";
+
+/* remove user phone number */
+"Hc0-4p-ZE9.text" = "کاربر ۲";
+"ChR-Q9-3BL.text" = "کاربر ۳";
+"OOc-s3-ruO.text" = "کاربر ۴";
+"PDo-1a-sLx.text" = "کاربر ۵";
+"M5e-6y-ihF.text" = "غیرفعال";
+"ddE-Sv-kmW.text" = "غیرفعال";
+"snZ-S5-C4Y.text" = "غیرفعال";
+"CGI-tm-fWD.text" = "غیرفعال";
+"75g-1v-BgL.normalTitle" = "ارسال";
+"nBY-2u-cQ4.normalTitle" = "ارسال";
+"yri-6x-xnO.normalTitle" = "ارسال";
+"Fz7-n2-YdZ.normalTitle" = "ارسال";
+
+/* add new  recipient alert */
+"1Rg-b0-1fr.text" = "هشدارگیرنده ۱";
+"ceo-fZ-fus.text" = "هشدارگیرنده ۲";
+"BdR-vA-VWS.text" = "هشدارگیرنده ۳";
+"M07-Yc-Nip.text" = "هشدارگیرنده ۴";
+"5Yv-vn-QdL.text" = "هشدار گیرنده ۵";
+"1Sd-vG-kW9.normalTitle" = "ارسال";
+"oyF-A0-8UT.normalTitle" = "ارسال";
+"Amm-rX-PZb.normalTitle" = "ارسال";
+"IH7-Pb-ijL.normalTitle" = "ارسال";
+"vv7-uN-Nkr.normalTitle" = "ارسال";
+
+
+/* remove Recipient alert number */
+"6jB-xT-rW0.text" = "هشدارگیرنده ۱";
+"f6T-iK-grY.text" = "هشدارگیرنده ۲";
+"mTv-ku-Hkv.text" = "هشدارگیرنده ۳";
+"wHA-dE-ub4.text" = "هشدارگیرنده ۴";
+"RHO-YF-a3D.text" = "هشدارگیرنده ۵";
+"jsc-X0-dIJ.text" = "غیرفعال";
+"fQQ-5i-bFg.text" = "غیرفعال";
+"ttN-du-U40.text" = "غیرفعال";
+"fR2-pk-lHJ.text" = "غیرفعال";
+"q0m-xP-tq1.text" = "غیرفعال";
+"I9w-UE-GpI.normalTitle" = "ارسال";
+"VVX-7r-TxE.normalTitle" = "ارسال";
+"PSi-i7-Cqb.normalTitle" = "ارسال";
+"Ehi-rQ-0wr.normalTitle" = "ارسال";
+"dop-ce-K6b.normalTitle" = "ارسال";
+
+
+/* for record and test voice page */
+"0SU-5P-EPU.text" = "بعد از کلیک بر روی این دکمه، منتظر تماس با دستگاه بمانید بعد از شنیدن دو صدای (بیپ) پیغام خود را بگذارید ومنتظر بمانید تا یک صدای (بیپ) بشنوید و تماس به صورت اتوماتیک قطع شود.";
+"Nas-Tj-NAd.text" = "تست صدای ضبط";
+"lpD-8e-KRj.text" = "بعد از کلیک بر روی این دکمه، منتظر بمانید تا با شما تماس گرفته شود و صدای ضبط شده پخش شود.";
+
+
+/* For enable and disable users call*/
+"F7l-fb-fjU.text" = "کاربر ۲";
+"tpM-YY-gYH.text" = "کاربر ۳";
+"Q6d-Nf-blU.text" = "کاربر ۴";
+"Qpv-9U-bf1.text" = "کاربر ۵";
+"X7f-pH-u6w.text" = "غیرفعال";
+"mEp-ot-zjb.text" = "غیرفعال";
+"Jbe-NQ-znQ.text" = "غیرفعال";
+"0dI-NQ-Vly.text" = "غیرفعال";
+"tOL-2H-aEu.text" = "فعال";
+"MtZ-a2-U5y.text" = "فعال";
+"Bxf-QR-kBW.text" = "فعال";
+"332-Lg-tIS.text" = "فعال";
+"h9F-bQ-eFi.normalTitle" = "ارسال";
+"ifN-Kd-sBW.normalTitle" = "ارسال";
+"0D7-L0-Fur.normalTitle" = "ارسال";
+"sQu-wE-Yz7.normalTitle" = "ارسال";
+
+
+/* For Activate and deactivate ding dong*/
+"yyf-lz-ysQ.text" = "غیرفعال";
+"1Ac-Ju-I2Y.text" = "فعال";
+"zSM-cp-BhE.normalTitle" = "ارسال";
+"VfR-n3-fkH.text" = "این آیتم فقط بر روی زون 1 فعال می شود.";
+
+
+/* For Activate and deactivate Reporting to me*/
+"QZX-BO-FA5.text" = "غیرفعال";
+"pu6-Ki-hkn.text" = "فعال";
+"SHY-oi-t5W.normalTitle" = "ارسال";
+"Yh8-dI-uBh.text" = "با فعال کردن این آیتم ، قفل کردن و باز کردن سیستم توسط کلیه کاربران ، به شما از طریق sms اطلاع رسانی میشود.";
+
+
+/* For Activate and deactivate Secure me*/
+"nSc-Bp-QD8.text" = "غیرفعال";
+"GCz-cP-Iqm.text" = "فعال";
+"oJS-7X-LUR.normalTitle" = "ارسال";
+"ZSl-CP-bwy.text" = "این آیتم فقط بر روی زون 2 فعال میشود ، در صورت فعال کردن دستگاه محدوده این زون در صورت تحریک باعث به صدا درآمدن آژیر نمیشود.";
+
+
+/* For Jammer detection Mode*/
+"P1s-bc-h7J.text" = "غیرفعال";
+"g5i-w2-j9U.text" = "فعال";
+"2kZ-1G-9rY.normalTitle" = "ارسال";
+"gWt-mT-KQT.text" = "با فعال سازی این آیتم اگر آنتن دستگاه صفر شد و یا jammer وصل باشد ، خروجی  لحظه ای 1 به مدت 3 ثانیه high میشود. با فعال کردن این آیتم خروجی لحظه ای 1 غیر فعال شده";
+
+
+/* For Alert Page*/
+"kgQ-Ud-rHi.text" = "غیرفعال";
+"xwH-8M-h67.text" = "فعال";
+"0PJ-qR-i4e.normalTitle" = "ارسال";
+"ht2-Qc-XH1.text" = "با فعال کردن این آیتم خروجی لحظه ای 2 غیر فعال شده و در زمان به صدا در آمدن آژیر به مدت 15 ثانیه به صورت HIGH در می آید .";
+
+
+/* For 24 hour Page*/
+"jx6-rG-HbE.text" = "غیرفعال";
+"Led-MN-02Z.text" = "فعال";
+"4dH-1J-1NV.normalTitle" = "ارسال";
+"xta-8S-AQh.text" = "این آیتم ، فقط بر روی زون ۳ فعال می شود.در صورت استفاده از حالت ۲۴ ساعته زون ۳ ، اگر این زون تحریک پذیرد ، چنانچه دستگاه در حالت غیر فعال( قفل / باز )نیز باشد ، آژیر به صدا در می آید.
+    روش غیر فعال کردن این آیتم :
+
+در صورت عدم تحریک ، کاربر ۱ میتواند با استفاده از همین آیکون ، حالت ۲۴ ساعته را غیر فعال نماید.
+چنانچه آژیر به صدا دربیاید،کلیه کاربران دستگاه میتوانند با استفاده از آیکون قفل / باز اقدام به قطع آژیر نمایند.
+لازم به ذکر است ، در صورت باز کردن قفل در هنگام آژیر ، این آیتم باید مجدداً توسط کاربر ۱ فعال شود.
+
+";
+
+
+
+/* For Enable an disable Farsi Language Mode*/
+"YxQ-xF-8nx.text" = "غیرفعال";
+"KCQ-cj-tBa.text" = "فعال";
+"XQJ-mm-axA.normalTitle" = "ارسال";
+"C2i-TL-Lx5.text" = "با فعال کردن این آیتم smsهای دریافتی به زبان فارسی میشود.";
+
+/* For Enable an disable Bluetooth vision45*/
+"2Q7-cq-omK.text" = "غیرفعال";
+"9VJ-yF-twm.text" = "فعال";
+"hdl-Vr-55x.normalTitle" = "ارسال";
+
+
+
+/* For Warranty code Enable Page*/
+"2KH-4N-UtP.normalTitle" = "فعال کردن گارانتی";
+"nV1-O6-z9e.normalTitle" = "ارسال کد گارانتی";
+"xhu-eg-WgE.placeholder" = "کد گارانتی";
+"8O3-vT-E4a.text" = "کد گارانتی دریافت شده از طریق پیام کوتاه را در این قسمت وارد کنید و دکمه ارسال را کلیک کنید.";
+
+
+
+/* For Factory Reset Page*/
+"NDy-Bb-gNq.text" = "موافقم";
+"Yvt-5F-Tau.normalTitle" = "ارسال";
+"WhS-Ir-EyU.text" = "در صورت انتخاب این گزینه تمام دسترسی ها و تنظیمات به حالت پیش فرض بازمیگردد و کاربر 1 هم مجددا باید ثبت نام کند.";
+
+
+
+/* For Add New Input Password*/
+"SRW-O4-awP.text" = "تنظیم رمز عبور برنامه";
+"25a-7R-jFq.placeholder" = "رمز عبور جدید ";
+"gsG-As-OCm.placeholder" = "تکرار رمز عبور";
+"euX-Re-Qer.normalTitle" = "تایید";
+"smk-z6-CzJ.normalTitle" = "لغو";
+
+/* For Change New Input Password*/
+"ylq-kM-Xop.text" = "تغییر رمز عبور";
+"H4F-SQ-8Sg.placeholder" = "رمز عبور قدیم";
+"OaA-Zl-juv.placeholder" = "رمز عبور جدید";
+"fuh-yB-jJ6.placeholder" = "تکرار رمز عبور";
+"zLh-P5-Fpw.normalTitle" = "تایید";
+"Xcd-uw-2Uc.normalTitle" = "لغو";
+
+/* For Remove Input Password*/
+"c8y-Lq-yuh.text" = "حذف رمز عبور";
+"C1L-Wo-dtM.placeholder" = "رمز عبور";
+"B9J-X6-H2V.normalTitle" = "تایید";
+"UZX-IV-QHg.normalTitle" = "لغو";
+
+/* Input Password Base*/
+"xY1-2v-D7V.text" = "رمزعبور را وارد کنید";
+"EGt-iS-ip5.placeholder" = "رمزعبور";
+
+"mlp-AS-rUz.text" = "رمز عبور";
+"pW1-A6-Wt2.text" = "پشتیبانی";
+
+
+/* Outputs name */
+"r8S-gu-bGm.text" = "نام برای دکمه خروجی قطع و وصل ۱";
+"gos-JC-4N9.text" = "نام برای دکمه خروجی قطع و وصل ۲";
+"5jF-rv-MWV.text" = "نام برای خروجی لحظه ای ۱";
+"xLj-2d-dU3.text" = "نام برای خروجی لحظه ای ۲";
+"4Ks-eb-EAf.placeholder" = "قطع و وصل ۱";
+"TNe-vn-tlx.placeholder" = "قطع و وصل ۲";
+"58G-3b-AUr.placeholder" = "خروجی لحظه ای ۱";
+"2r1-2R-K7r.placeholder" = "خروجی لحظه ای ۲";
+
+
+/* zoon name*/
+"BN4-7l-tPh.text" = "شما میتوانید اسامی دلخواه برای زون ها استفاده کنید";
+"Tkv-GH-ubP.text"  = "شما میتوانید نام خروجی ها را در صفحه اصلی تغییر دهید.";
+"EKf-2E-ZGT.text" = "Extra 16";
+"HLE-Es-bUR.text" = "زون ۱";
+"lgD-pI-sd4.text" = "زون ۲";
+"9El-a3-yzP.text" = "زون ۳";
+"AFH-gg-7Pw.text" = "زون ۴";
+"fal-q9-mUU.text" = "زون بیسیم ۵";
+"q8o-bU-2n3.text" = "زون بیسیم ۶";
+"C6h-AC-WaX.text" = "زون بیسیم ۷";
+"ppy-rY-oI6.text" = "زون بیسیم ۸";
+"2jj-FZ-tl6.text" = "زون بیسیم ۹";
+"Thn-BM-Yd8.text" = "زون بیسیم ۱۰";
+"fkz-UH-NrK.text" = "زون بیسیم ۱۱";
+"dSQ-pk-p7Q.text" = "زون بیسیم ۱۲";
+"ear-Me-vUU.text" = "زون بیسیم ۱۳";
+"hwg-t2-VAv.text" = "زون بیسیم ۱۴";
+"pXc-s8-rjb.text" = "زون بیسیم ۱۵";
+"EI9-Kb-tY8.text" = "زون بیسیم ۱۶";
+"bP5-1b-b0v.text" = "زون بیسیم ۱۷";
+"kDb-dh-lQi.text" = "زون بیسیم ۱۸";
+"gXx-w4-hPv.text" = "زون بیسیم ۱۹";
+"mYG-pR-duO.text" = "زون بیسیم ۲۰";
+
+
+/* dialog info*/
+"FdV-i8-Lvn.text" = "بهترین محافظ برای اماکن شما";
+"yFs-mi-nDa.text" = "آدرس سایت :";
+"Igx-83-0zG.text" = "تماس با پشتیبانی :";
+
+/*for zoon settings*/
+
+"EHQ-HF-gVR.text" = "توجه داشته باشید، با اولین ارسال زون مربوطه به حالت غیرفعال رفته ، و با ارسال مجدد فعال خواهد شد.";
+"EXc-9q-spp.text" = "زون های اصلی";
+"Q8z-On-x5X.text" = "زون های Extra 16";
+"JDS-09-HRX.normalTitle" = "ارسال";
+"xN3-sp-GEE.text" = "زون ۱";
+"Nu4-Ih-i81.text" = "زون ۲";
+"Vqk-hd-Sat.text" = "زون ۳";
+"4O3-8u-bX3.text" = "زون ۴";
+"8fE-xl-9La.text" = "زون بیسیم ۵";
+"hBn-Hb-WmI.text" = "زون بیسیم ۶";
+"0iG-di-snV.text" = "زون بیسیم ۷";
+"gSD-T8-lU3.text" = "زون بیسیم ۸";
+"yMn-0Q-QBg.text" = "زون بیسیم ۹";
+"JgY-ZX-C4w.text" = "زون بیسیم ۱۰";
+"qAn-JA-rjj.text" = "زون بیسیم ۱۱";
+"Wz5-mt-lvN.text" = "زون بیسیم ۱۲";
+"D6Q-Ll-IdJ.text" = "زون بیسیم ۱۳";
+"7Tf-a1-aWK.text" = "زون بیسیم ۱۴";
+"GdZ-XO-ZxY.text" = "زون بیسیم ۱۵";
+"aAd-Va-f9i.text" = "زون بیسیم ۱۶";
+"Ok7-rO-Jct.text" = "زون بیسیم ۱۷";
+"sUj-nh-iKZ.text" = "زون بیسیم ۱۸";
+"VlV-IS-8vu.text" = "زون بیسیم ۱۹";
+"1VU-iM-QZZ.text" = "زون بیسیم ۲۰";
+
+
+/* For set call time*/
+"YzQ-TI-Jzk.text" = "۱۵ ثانیه";
+"RPq-bc-Drd.text" = "۳۰ ثانیه";
+"b3M-1q-Jtk.text" = "۶۰ ثانیه";
+"BMT-cz-7Vk.text" = "۱۲۰ ثانیه";
+"7nI-jK-8yD.text" = "با انتخاب یکی از گزینه های زیر شما می توانید، فاصله زمانی تماس هشدار را از SMS تغییر دهید. توجه داشته باشید که تنظیم اولیه دستگاه روی 120 ثانیه می باشد و همچنین در زمان شماره گیری امکان غیرفعال کردن وجود ندارد و آژیر نیز دراین هنگام قطع می باشد.";
+"98X-6h-ZE2.normalTitle" = "ارسال";
+
+
+
+/* view go to guarante*/
+"eLR-Ki-lQN.normalTitle" = "تنظیمات گارانتی";
+"M5g-aE-wgK.text" = "گارانتی";
+"Gbw-7W-ExX.text" = "شما تاکنون گارانتی خود را فعال ننموده اید ، لطفا جهت فعال سازی گارانتی درون تنظیمات دستگاه و گزینه مربوط به گارانتی اقدامات لازم را انجام دهید.";
+
+
+
+
+/* View Change Alarm State*/
+"9H2-ZS-JgW.normalTitle" = "ارسال";
+"j3k-B3-C4v.text" = "فعال / غیرفعال";
+"MDH-gV-fhj.text" = "با انتخاب این گزینه دستگاه در زمان آلارم بلافاصله بعد از پیام رساندن به کاربر 1 شروع به پخش آژیر می کند، توجه داشته باشید که فقط در هنگام چشمک زدن act led امکان قطع آژیر و غیر فعال کردن دستگاه  می باشد.  با زدن تیک و ارسال مجدد دستگاه به حالت اول باز می گردد.";
+
+/* View Information zoon*/
+"hhk-xu-KwX.normalTitle" = "ارسال";
+"VkJ-0z-ovW.text" = "فعال / غیرفعال";
+"uBn-Kv-5pP.text" = "با انتخاب این گزینه زون 4 از حالت عملکرد عادی خود خارج شده و در صورت تحریک توسط سنسور به کاربر 1 پیامک با متن ( زون پیام رسان ) ارسال می گردد و هر 10 دقیقه در صورت غیر فعال کردن این آیتم این عملیات تکرار می شود. با زدن تیک و ارسال مجدد دستگاه به حالت اول باز می گردد.";
+
